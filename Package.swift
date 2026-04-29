@@ -1,8 +1,8 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let version = "2.13.0"
-let checksum = "208b3d798b8b63b7b428bebf2889be0c5fe11f7a5adb6da98e7f6860c1a7658d"
+let version = "2.14.0"
+let checksum = "2a8b960dc5f1b8a8ac3100d04f9f4b068616f0afbf5f8ba000343e7110a16bd5"
 
 let package = Package(
     name: "RainbowSDK",
